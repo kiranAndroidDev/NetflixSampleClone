@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:netflix_sample_app/AppTheme.dart';
 import 'package:netflix_sample_app/details/DetailsPage.dart';
 import 'package:netflix_sample_app/home/bloc/MovieBloc.dart';
-import 'package:netflix_sample_app/home/downloads/Downloads.dart';
+import 'package:netflix_sample_app/downloads/Downloads.dart';
 import 'package:netflix_sample_app/home/model/LatestMovieResponse.dart';
 import 'package:netflix_sample_app/home/model/MovieResponse.dart';
 import 'package:netflix_sample_app/home/ui/list_item.dart';
