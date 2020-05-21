@@ -1,7 +1,7 @@
 import 'package:netflix_sample_app/home/model/LatestMovieResponse.dart';
 import 'package:netflix_sample_app/home/model/MovieResponse.dart';
 import 'package:netflix_sample_app/network/ApiHelper.dart';
-const  String apiKey = "a065895cd36acc54af7a68e2d1a323b4";
+const  String apiKey = "your api key";
 class MovieRepository {
 
 
