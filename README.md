@@ -1,10 +1,10 @@
-# netflix_sample_app
+# Netflix Sample App
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple app developed using Bloc pattern. 
 
 A few resources to get you started if this is your first Flutter project:
 
